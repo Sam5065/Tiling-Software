@@ -1,0 +1,28 @@
+C:\Users\30061132.WCC.000\source\repos\Synoptic Task 2\Synoptic Task 2\bin\Debug\Synoptic Task 2.exe.config
+C:\Users\30061132.WCC.000\source\repos\Synoptic Task 2\Synoptic Task 2\bin\Debug\Synoptic Task 2.exe
+C:\Users\30061132.WCC.000\source\repos\Synoptic Task 2\Synoptic Task 2\bin\Debug\Synoptic Task 2.pdb
+C:\Users\30061132.WCC.000\source\repos\Synoptic Task 2\Synoptic Task 2\obj\Debug\Synoptic Task 2.csprojAssemblyReference.cache
+C:\Users\30061132.WCC.000\source\repos\Synoptic Task 2\Synoptic Task 2\obj\Debug\Synoptic_Task_2.Form1.resources
+C:\Users\30061132.WCC.000\source\repos\Synoptic Task 2\Synoptic Task 2\obj\Debug\Synoptic_Task_2.Properties.Resources.resources
+C:\Users\30061132.WCC.000\source\repos\Synoptic Task 2\Synoptic Task 2\obj\Debug\Synoptic Task 2.csproj.GenerateResource.cache
+C:\Users\30061132.WCC.000\source\repos\Synoptic Task 2\Synoptic Task 2\obj\Debug\Synoptic Task 2.exe
+C:\Users\30061132.WCC.000\source\repos\Synoptic Task 2\Synoptic Task 2\obj\Debug\Synoptic Task 2.pdb
+C:\Users\samhi\Desktop\Synoptic Task 2\Synoptic Task 2\obj\Debug\Synoptic Task 2.csprojAssemblyReference.cache
+C:\Users\samhi\Desktop\Synoptic Task 2\Synoptic Task 2\obj\Debug\Synoptic_Task_2.Form1.resources
+C:\Users\samhi\Desktop\Synoptic Task 2\Synoptic Task 2\obj\Debug\Synoptic_Task_2.Properties.Resources.resources
+C:\Users\samhi\Desktop\Synoptic Task 2\Synoptic Task 2\obj\Debug\Synoptic Task 2.csproj.GenerateResource.cache
+C:\Users\samhi\Desktop\Synoptic Task 2\Synoptic Task 2\obj\Debug\Synoptic Task 2.csproj.CoreCompileInputs.cache
+C:\Users\samhi\Desktop\Synoptic Task 2\Synoptic Task 2\obj\Debug\Synoptic Task 2.exe
+C:\Users\samhi\Desktop\Synoptic Task 2\Synoptic Task 2\obj\Debug\Synoptic Task 2.pdb
+C:\Users\samhi\Desktop\Synoptic Task 2\Synoptic Task 2\bin\Debug\Synoptic Task 2.exe.config
+C:\Users\samhi\Desktop\Synoptic Task 2\Synoptic Task 2\bin\Debug\Synoptic Task 2.exe
+C:\Users\samhi\Desktop\Synoptic Task 2\Synoptic Task 2\bin\Debug\Synoptic Task 2.pdb
+\\li-studenthd-01\student data$\30061132\Desktop\Synoptic Task 2\Synoptic Task 2\bin\Debug\Synoptic Task 2.exe.config
+\\li-studenthd-01\student data$\30061132\Desktop\Synoptic Task 2\Synoptic Task 2\bin\Debug\Synoptic Task 2.exe
+\\li-studenthd-01\student data$\30061132\Desktop\Synoptic Task 2\Synoptic Task 2\bin\Debug\Synoptic Task 2.pdb
+\\li-studenthd-01\student data$\30061132\Desktop\Synoptic Task 2\Synoptic Task 2\obj\Debug\Synoptic Task 2.csprojAssemblyReference.cache
+\\li-studenthd-01\student data$\30061132\Desktop\Synoptic Task 2\Synoptic Task 2\obj\Debug\Synoptic_Task_2.Form1.resources
+\\li-studenthd-01\student data$\30061132\Desktop\Synoptic Task 2\Synoptic Task 2\obj\Debug\Synoptic_Task_2.Properties.Resources.resources
+\\li-studenthd-01\student data$\30061132\Desktop\Synoptic Task 2\Synoptic Task 2\obj\Debug\Synoptic Task 2.csproj.GenerateResource.cache
+\\li-studenthd-01\student data$\30061132\Desktop\Synoptic Task 2\Synoptic Task 2\obj\Debug\Synoptic Task 2.exe
+\\li-studenthd-01\student data$\30061132\Desktop\Synoptic Task 2\Synoptic Task 2\obj\Debug\Synoptic Task 2.pdb
